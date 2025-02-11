@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 
 You can find me on:
 
-- [linkedin.com/in/suleyman-azboy]
+- [www.linkedin.com/in/suleyman-azboy]
 - [azboysuleyman2054@gmail.com]
 
 Don't hesitate to reach out! I'm always open to collaborations and new opportunities.
