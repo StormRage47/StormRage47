@@ -1,20 +1,21 @@
-# Hello, I'm Süleyman! 👋
+# Hello, I'm Süleyman!
 
 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on HABERCI!
-- 🌱 I’m currently learning CYBER SEC AND DEV.
-- 📫 How to reach me: [azboysuleyman2054@gmail.com]
-- 😄 Pronouns: StormRage or Joker
-- ⚡ Fun fact: That's Funny!
+- I’m currently learning CYBER SEC AND DEV.
+- How to reach me: [azboysuleyman2054@gmail.com]
+- Fun fact: Good Hacking!
 
-## 🚀 Skills and Tools
+## Skills and Tools
 
-- Languages: Python, Java, C, HTML-CSS
-- Frameworks: Spring
-- Tools: GitHub
+- Languages: Python, C, JavaScript, HTML-CSS
+- Tools: Git, Kali Linux , Linux
+- Cyber tools:
+    • Web Pentesting: Burp Suite
+    • Network Scanning & Analysis: Nmap, Wireshark
+    • Password Cracking & Attack Tools: Hashcat, Hydra
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 You can find me on:
 
