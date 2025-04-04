@@ -11,9 +11,9 @@ Welcome to my GitHub profile!
 - Languages: Python, C, JavaScript, HTML-CSS
 - Tools: Git, Kali Linux , Linux
 - Cyber tools:
-    • Web Pentesting: Burp Suite
-    • Network Scanning & Analysis: Nmap, Wireshark
-    • Password Cracking & Attack Tools: Hashcat, Hydra
+-  • Web Pentesting: Burp Suite
+-  • Network Scanning & Analysis: Nmap, Wireshark
+-  • Password Cracking & Attack Tools: Hashcat, Hydra
 
 ## Let's Connect!
 
